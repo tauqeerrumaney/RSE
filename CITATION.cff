@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: German Foreigners Analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tauqeer
+    family-names: Rymaney
+    email: tauqeer.kasam.rumaney@uni-potsdam.de
+    affiliation: University of Potsdam
+repository-code: 'https://gitup.uni-potsdam.de/rumaney/rse'
+abstract: >
+  This software answers several research questions regarding
+  the number of foreigners in Germany.  It is written in
+  Python and contains Jupyter notebook for computational
+  narratives.
+license: MIT
+version: '1.1'
+date-released: '2024-05-05'

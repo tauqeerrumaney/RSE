@@ -1,0 +1,13 @@
+As a foreigner myself who came to Germany for studies, I've been fascinated by the cultural richness 
+foreigners bring. Their skills and ideas can fuel innovation, but adapting to a new language and 
+customs can be challenging for both newcomers and the host community. This sparked my curiosity 
+about foreigner trends in Germany. 
+The chosen dataset (12521-0001:Foreigners: Germany, reference date, sex/age years/marital
+status) from the Genesis database (https://www-genesis.destatis.de/genesis/online) contains 
+data regarding yearly from 1967 to 2023 the number of male and female migrated to Germany. 
+From the dataset at hand, I would like to find out the following:
+1. How has the total foreign population in Germany grown between 1967 and 2023?
+2. Has the gender balance among foreign residents shifted significantly during this period?
+3. Are there specific years with a surge in immigration for either men or women?
+4. Are there decades where one gender consistently migrated to Germany at a higher rate than the other?
+5. Identifing the top 5 years with the highest total foreign population.
